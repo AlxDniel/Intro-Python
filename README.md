@@ -1,4 +1,4 @@
-# Tarea_Dec
+# Introductory exercises for Python
 Ejercicios de la tarea agendada para 29-Dec-2021
 
 The exercises are developed in a logical way, showing the step-by-step formation of the final answer.
